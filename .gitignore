@@ -1,2 +1,6 @@
-/.idea/
 *.iml
+target
+.idea
+/common/src/gen/org/apache/hive/common/package-info.java
+/datanucleus.log
+/conf/hive-default.xml.template
